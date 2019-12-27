@@ -30,7 +30,7 @@
       <div class="row">
         <div class="col-lg-11 col-md col-sm-12 mt-2">
           <h3>
-            <a href="#" class="noline">Recent werk</a>
+            <a href="#" class="noline">Recent rk</a>
           </h3>
 
         </div>
