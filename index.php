@@ -13,7 +13,7 @@
     <div class="row">
       <div class="col-lg-7 col-md-11 col-sm-12 mr-6">
         <h2 class="lead">
-          Vragen beantwoorden we graag met de beste oplossingen. Daarom leveren wij <a href="aanpak.php">maatwerk</a>
+           beantwoorden we graag met de beste oplossingen. Daarom leveren wij <a href="aanpak.php">maatwerk</a>
           met open vizier.
         </h2>
       </div>
